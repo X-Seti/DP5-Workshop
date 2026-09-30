@@ -1,0 +1,6 @@
+/apps/methods/__pycache__
+/apps/gui/__pycache__
+/apps/debug/__pycache__
+__pycache__/
+*.pyc
+*.log
